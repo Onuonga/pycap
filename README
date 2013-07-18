@@ -1,0 +1,16 @@
+This package provides the ability to capture packets from, and inject packets onto, network interfaces. It supports commonly 
+found protocols such as Ethernet, PPP, IP, ARP, TCP, UDP, and ICMP.
+
+Supported Platforms
+
+pycap should work on any platform that supports libpcap, libnet and Python. 
+It currently requires Python 2.3. It will be backported to Python 2.2 if enough interest is shown. If you find any bugs please report them on the
+here.
+
+To Do
+
+Packet injection is currently a work in progress. It works for me, but needs a lot more testing. 
+A full list of things left to complete is available
+on a separate page.
+
+Page will be updated with time.
